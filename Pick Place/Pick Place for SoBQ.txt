@@ -1,0 +1,326 @@
+Altium Designer Pick and Place Locations
+C:\Users\dontb\AppData\Local\TempReleases\Snapshot\1\Sources\Pick Place\Pick Place for SoBQ.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       02/12/18
+Time:       19:54
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                 Layer       Footprint                      Center-X(mil) Center-Y(mil) Rotation Description       
+OLED1      "OLED MONO 128x32"      TopLayer    5025850670                     15019.000     4500.890      360      ""                
+R60        10K                     TopLayer    0402_L                         14770.165     4807.000      90       Resistor          
+R59        10K                     TopLayer    0402_L                         14770.496     4896.532      270      Resistor          
+SW110      B3U-1000P               TopLayer    B3U-1000P                      14517.496     4599.000      270      ""                
+SW109      B3U-1000P               TopLayer    B3U-1000P                      14517.188     4783.186      270      ""                
+R58        10K                     BottomLayer 0402_L                         14972.398     4208.902      180      Resistor          
+R57        10K                     BottomLayer 0402_L                         14976.398     4110.257      180      Resistor          
+R55        10K                     BottomLayer 0402_L                         15133.125     4307.000      360      Resistor          
+R54        10K                     BottomLayer 0402_L                         15219.000     4307.000      180      Resistor          
+C24        "0u1F 16V X7R"          BottomLayer 0402_L_C                       14911.000     4230.752      270      Capacitor         
+C23        "0u1F 16V X7R"          BottomLayer 0402_L_C                       14906.000     4088.406      90       Capacitor         
+TVS1       PRTR5V0U2X,215          BottomLayer SOT143B-RF                     15440.015     4760.158      180      ""                
+F1         0ZCK0050AF2E            TopLayer    0ZCK0050AF2E                   15548.496     4588.000      270      "Thermal Fuse"    
+J2         "2 Pin Header"          TopLayer    2_PIN_HEADER                   14543.496     4948.000      180      ""                
+R56        5.1K                    TopLayer    0402_L                         15145.173     4840.000      90       Resistor          
+R53        5.1K                    TopLayer    0402_L                         15439.496     4702.000      90       Resistor          
+USB1       "USB C"                 TopLayer    USB_C                          15400.566     4918.992      180      ""                
+J1         "SWD header 5 Pin"      TopLayer    SWD_5_PIN                      14207.495     4948.000      360      ""                
+U2         STM32F401RE             BottomLayer LQFP64-STM32                   14440.495     4531.000      270      ""                
+XTAL1      ATS08ASM-1E             BottomLayer ATS25ASM-1E                    14916.496     4588.000      270      "8MHz 60ESR 20pF" 
+R50        10K                     TopLayer    0402_L                         14665.290     4481.000      180      Resistor          
+R49        10K                     TopLayer    0402_L                         14665.290     4433.600      180      Resistor          
+R48        10K                     TopLayer    0402_L                         14665.290     4386.200      180      Resistor          
+R47        10K                     TopLayer    0402_L                         14665.290     4338.800      180      Resistor          
+R45        10K                     TopLayer    0402_L                         14665.290     4291.400      180      Resistor          
+R39        10K                     TopLayer    0402_L                         14665.290     4244.000      180      Resistor          
+C8         "30pF 50V np0"          BottomLayer 0402_L_C                       14772.495     4624.870      180      Capacitor         
+C7         "30pF 50V np0"          BottomLayer 0402_L_C                       14772.495     4555.240      180      Capacitor         
+V1         3.3Vreg                 BottomLayer SOT223_STM                     15294.181     4492.000      360      ""                
+R35        10K                     TopLayer    0402_L                         13168.241     4270.000      180      Resistor          
+R34        10K                     TopLayer    0402_L                         13171.390     4375.729      360      Resistor          
+R24        10K                     BottomLayer 0402_L                         14172.729     4213.102      270      Resistor          
+R1         10K                     TopLayer    0402_L                         14620.000     4695.039      270      Resistor          
+C22        "0u1F 16V X7R"          BottomLayer 0402_L_C                       15101.181     4561.842      90       Capacitor         
+C21        "10uF 6.3V X5R Ceramic" BottomLayer 0402_L_C                       15101.181     4432.000      90       Capacitor         
+R52        10K                     BottomLayer 0402_L                         14749.496     4328.000      180      Resistor          
+R51        10K                     BottomLayer 0402_L                         14436.724     4874.669      90       Resistor          
+R46        10K                     BottomLayer 0402_L                         14523.338     4874.669      90       Resistor          
+R44        20                      TopLayer    0402_L                         13899.390     4079.355      270      Resistor          
+R43        51                      TopLayer    0402_L                         13853.390     4079.355      270      Resistor          
+R42        20                      TopLayer    0402_L                         13807.390     4079.355      270      Resistor          
+R41        20                      TopLayer    0402_L                         13761.390     4079.355      270      Resistor          
+R40        51                      TopLayer    0402_L                         13715.390     4079.355      270      Resistor          
+R38        20                      TopLayer    0402_L                         13991.445     4146.847      180      Resistor          
+R37        51                      TopLayer    0402_L                         13991.445     4195.770      180      Resistor          
+R36        20                      TopLayer    0402_L                         13991.445     4244.693      180      Resistor          
+R33        20                      TopLayer    0402_L                         13991.445     4293.616      180      Resistor          
+R32        51                      TopLayer    0402_L                         13991.445     4342.539      180      Resistor          
+R31        20                      TopLayer    0402_L                         13991.445     4391.462      180      Resistor          
+R30        20                      TopLayer    0402_L                         13991.445     4440.385      180      Resistor          
+R29        51                      TopLayer    0402_L                         13991.445     4489.308      180      Resistor          
+R28        20                      TopLayer    0402_L                         13991.445     4538.231      180      Resistor          
+R27        20                      TopLayer    0402_L                         13171.390     4476.274      180      Resistor          
+R26        20                      TopLayer    0402_L                         13991.445     4587.154      180      Resistor          
+R25        20                      TopLayer    0402_L                         13171.390     4526.547      180      Resistor          
+R23        51                      TopLayer    0402_L                         13991.445     4636.077      180      Resistor          
+R22        51                      TopLayer    0402_L                         13171.390     4576.820      180      Resistor          
+R21        20                      TopLayer    0402_L                         13991.445     4685.000      180      Resistor          
+R20        20                      TopLayer    0402_L                         13171.390     4627.092      180      Resistor          
+R19        20                      TopLayer    0402_L                         13991.445     4733.923      180      Resistor          
+R18        20                      TopLayer    0402_L                         13171.390     4677.365      180      Resistor          
+R17        51                      TopLayer    0402_L                         13991.445     4782.846      180      Resistor          
+R16        51                      TopLayer    0402_L                         13171.390     4727.638      180      Resistor          
+R15        20                      TopLayer    0402_L                         13873.496     4834.000      90       Resistor          
+R14        20                      TopLayer    0402_L                         13826.110     4834.000      90       Resistor          
+R13        51                      TopLayer    0402_L                         13779.726     4834.000      90       Resistor          
+R12        20                      TopLayer    0402_L                         13733.341     4834.000      90       Resistor          
+R11        20                      TopLayer    0402_L                         13686.957     4834.000      90       Resistor          
+R10        51                      TopLayer    0402_L                         13640.572     4834.000      90       Resistor          
+R9         20                      TopLayer    0402_L                         13594.187     4834.000      90       Resistor          
+R8         20                      TopLayer    0402_L                         13547.803     4834.000      90       Resistor          
+R7         51                      TopLayer    0402_L                         13501.418     4834.000      90       Resistor          
+R6         20                      TopLayer    0402_L                         13455.033     4834.000      90       Resistor          
+R5         20                      TopLayer    0402_L                         13408.649     4834.000      90       Resistor          
+R4         51                      TopLayer    0402_L                         13362.264     4834.000      90       Resistor          
+R3         20                      TopLayer    0402_L                         13315.880     4834.000      90       Resistor          
+R2         20                      TopLayer    0402_L                         13269.495     4834.000      90       Resistor          
+E1         PEC12R-3xxxF-Sxxxx      TopLayer    EC05E1220202                   15983.260     4115.024      360      ""                
+C20        "0u1F 16V X7R"          TopLayer    0402_L_C                       13621.495     4072.631      180      Capacitor         
+C19        "1uF 25V X5R"           TopLayer    0402_L_C                       13621.495     4126.000      180      Capacitor         
+C18        "4.7uF 10V X5R Ceramic" BottomLayer 0402_L_C                       14299.495     4220.134      270      Capacitor         
+C17        "0u1F 16V X7R"          BottomLayer 0402_L_C                       14747.527     4426.000      180      Capacitor         
+C16        "1uF 25V X5R"           BottomLayer 0402_L_C                       14747.527     4377.984      180      Capacitor         
+C15        "0u1F 16V X7R"          TopLayer    0402_L_C                       13399.422     4269.896      360      Capacitor         
+C14        "1uF 25V X5R"           TopLayer    0402_L_C                       13399.422     4219.638      360      Capacitor         
+C13        "0u1F 16V X7R"          TopLayer    0402_L_C                       13310.300     4219.588      180      Capacitor         
+C12        "1uF 25V X5R"           TopLayer    0402_L_C                       13310.300     4269.846      180      Capacitor         
+C11        "1uF 25V X5R"           TopLayer    0402_L_C                       13169.422     4323.488      360      Capacitor         
+C10        "0u1F 16V X7R"          BottomLayer 0402_L_C                       14719.496     4496.000      90       Capacitor         
+C9         "0u1F 16V X7R"          BottomLayer 0402_L_C                       14738.629     4732.000      180      Capacitor         
+C6         "0u1F 16V X7R"          BottomLayer 0402_L_C                       14738.629     4787.000      180      Capacitor         
+C5         "0u1F 16V X7R"          BottomLayer 0402_L_C                       14098.495     4696.000      90       Capacitor         
+C4         "0u1F 16V X7R"          BottomLayer 0402_L_C                       14579.140     4246.001      180      Capacitor         
+C3         "0u1F 16V X7R"          BottomLayer 0402_L_C                       14598.496     4812.000      360      Capacitor         
+C2         "0u1F 16V X7R"          BottomLayer 0402_L_C                       14234.338     4210.000      270      Capacitor         
+C1         "10uF 6.3V X5R Ceramic" BottomLayer 0402_L_C                       14149.495     4696.110      90       Capacitor         
+U1         IS31FL3741              TopLayer    QFN-60_ISSI                    13555.776     4467.000      360      ""                
+LED4       ASMB-MTB0-0A3A2         TopLayer    SMD_LED                        6623.000      366.488       360      ""                
+LED3       ASMB-MTB0-0A3A2         TopLayer    SMD_LED                        5873.000      366.488       360      ""                
+LED2       ASMB-MTB0-0A3A2         TopLayer    SMD_LED                        4373.000      366.488       360      ""                
+LED1       ASMB-MTB0-0A3A2         TopLayer    SMD_LED                        3623.000      366.488       0        ""                
+SW99       RSUPER                  TopLayer    SWITCH_U1_W_LED                8660.000      552.551       0        ""                
+SW106      .NUM                    TopLayer    SWITCH_U1_W_LED                14660.000     552.551       0        ""                
+SW105      0NUM                    TopLayer    SWITCH_U2_W_LED                13560.000     537.000       0        ""                
+SW104      RIGHT                   TopLayer    SWITCH_U1_W_LED                12410.000     552.551       0        ""                
+SW103      DOWN                    TopLayer    SWITCH_U1_W_LED                11660.000     552.551       0        ""                
+SW102      LEFT                    TopLayer    SWITCH_U1_W_LED                10910.000     552.551       0        ""                
+SW101      FN                      TopLayer    SWITCH_U1_W_LED                10160.000     552.551       0        ""                
+SW100      RALT                    TopLayer    SWITCH_U1_W_LED                9410.000      552.551       0        ""                
+SW98       RCTRL                   TopLayer    SWITCH_U1_W_LED                7910.000      552.551       0        ""                
+SW97       SPACE                   TopLayer    SWITCH_U6.25_W_LED_-_DUPLICATE 5216.250      537.000       0        ""                
+SW96       lALT                    TopLayer    SWITCH_U1.25_W_LED             2379.128      552.551       0        ""                
+SW95       LSUPER                  TopLayer    SWITCH_U1.25_W_LED             1441.628      552.551       0        ""                
+SW94       LCTRL                   TopLayer    SWITCH_U1.25_W_LED             504.128       552.551       0        ""                
+SW93       ENTERNUM                TopLayer    SWITCH_U2_W_LED_-_VERT         15410.000     937.000       270      ""                
+SW92       3NUM                    TopLayer    SWITCH_U1_W_LED                14660.000     1302.551      0        ""                
+SW91       2NUM                    TopLayer    SWITCH_U1_W_LED                13910.000     1302.551      0        ""                
+SW90       1NUM                    TopLayer    SWITCH_U1_W_LED                13160.000     1302.551      0        ""                
+SW89       PAGEDOWN                TopLayer    SWITCH_U1_W_LED                12410.000     1302.551      0        ""                
+SW88       UP                      TopLayer    SWITCH_U1_W_LED                11660.000     1302.551      0        ""                
+SW87       RSHIFT                  TopLayer    SWITCH_U2.75_W_LED             10281.500     1287.000      0        ""                
+SW86       /                       TopLayer    SWITCH_U1_W_LED                8848.000      1302.551      0        ""                
+SW85       .                       TopLayer    SWITCH_U1_W_LED                8098.000      1302.551      0        ""                
+SW84       ,                       TopLayer    SWITCH_U1_W_LED                7348.000      1302.551      0        ""                
+SW83       M                       TopLayer    SWITCH_U1_W_LED                6598.000      1302.551      0        ""                
+SW82       N                       TopLayer    SWITCH_U1_W_LED                5848.000      1302.551      0        ""                
+SW81       B                       TopLayer    SWITCH_U1_W_LED                5098.000      1302.551      0        ""                
+SW80       V                       TopLayer    SWITCH_U1_W_LED                4348.000      1302.551      0        ""                
+SW79       C                       TopLayer    SWITCH_U1_W_LED                3598.000      1302.551      0        ""                
+SW78       X                       TopLayer    SWITCH_U1_W_LED                2848.000      1302.551      0        ""                
+SW77       Z                       TopLayer    SWITCH_U1_W_LED                2098.000      1302.551      0        ""                
+SW76       LSHIFT                  TopLayer    SWITCH_U2.25_W_LED             904.138       1287.000      0        ""                
+SW62       F                       TopLayer    SWITCH_U1_W_LED                3972.500      2052.551      0        ""                
+SW61       D                       TopLayer    SWITCH_U1_W_LED                3222.500      2052.551      0        ""                
+SW75       6NUM                    TopLayer    SWITCH_U1_W_LED                14660.000     2052.551      0        ""                
+SW74       5NUM                    TopLayer    SWITCH_U1_W_LED                13910.000     2052.551      0        ""                
+SW73       4NUM                    TopLayer    SWITCH_U1_W_LED                13160.000     2052.551      0        ""                
+SW72       PAGEUP                  TopLayer    SWITCH_U1_W_LED                12410.000     2052.551      0        ""                
+SW71       ENTER2                  TopLayer    SWITCH_U1_W_LED                11660.000     2052.551      0        ""                
+SW70       ENTER                   TopLayer    SWITCH_U2.25_W_LED             10466.250     2037.000      360      ""                
+SW69       '                       TopLayer    SWITCH_U1_W_LED                9222.500      2052.551      0        ""                
+SW68       ;                       TopLayer    SWITCH_U1_W_LED                8472.500      2052.551      0        ""                
+SW67       L                       TopLayer    SWITCH_U1_W_LED                7722.500      2052.551      0        ""                
+SW66       K                       TopLayer    SWITCH_U1_W_LED                6972.500      2052.551      0        ""                
+SW65       J                       TopLayer    SWITCH_U1_W_LED                6222.500      2052.551      0        ""                
+SW64       H                       TopLayer    SWITCH_U1_W_LED                5472.500      2052.551      0        ""                
+SW63       G                       TopLayer    SWITCH_U1_W_LED                4722.500      2052.551      0        ""                
+SW60       S                       TopLayer    SWITCH_U1_W_LED                2472.500      2052.551      0        ""                
+SW59       A                       TopLayer    SWITCH_U1_W_LED                1722.500      2052.551      0        ""                
+SW58       CAPSLOCK                TopLayer    SWITCH_U1.75_W_LED             691.250       2052.551      0        ""                
+SW57       +NUM                    TopLayer    SWITCH_U2_W_LED_-_VERT         15410.000     2437.000      270      ""                
+SW56       9NUM                    TopLayer    SWITCH_U1_W_LED                14660.000     2802.551      0        ""                
+SW55       8NUM                    TopLayer    SWITCH_U1_W_LED                13910.000     2802.551      0        ""                
+SW54       7NUM                    TopLayer    SWITCH_U1_W_LED                13160.000     2802.551      0        ""                
+SW53       END                     TopLayer    SWITCH_U1_W_LED                12410.000     2802.551      0        ""                
+SW52       INSERT                  TopLayer    SWITCH_U1_W_LED                11660.000     2802.551      0        ""                
+SW51       \                       TopLayer    SWITCH_U1.50_W_LED             10722.500     2802.551      0        ""                
+SW50       ]                       TopLayer    SWITCH_U1_W_LED                9785.000      2802.551      0        ""                
+SW49       [                       TopLayer    SWITCH_U1_W_LED                9035.000      2802.551      0        ""                
+SW48       P                       TopLayer    SWITCH_U1_W_LED                8285.000      2802.551      0        ""                
+SW47       O                       TopLayer    SWITCH_U1_W_LED                7535.000      2802.551      0        ""                
+SW46       I                       TopLayer    SWITCH_U1_W_LED                6785.000      2802.551      0        ""                
+SW45       U                       TopLayer    SWITCH_U1_W_LED                6035.000      2802.551      0        ""                
+SW44       Y                       TopLayer    SWITCH_U1_W_LED                5285.000      2802.551      0        ""                
+SW43       T                       TopLayer    SWITCH_U1_W_LED                4535.000      2802.551      0        ""                
+SW42       R                       TopLayer    SWITCH_U1_W_LED                3785.000      2802.551      0        ""                
+SW41       E                       TopLayer    SWITCH_U1_W_LED                3035.000      2802.551      0        ""                
+SW40       W                       TopLayer    SWITCH_U1_W_LED                2285.000      2802.551      0        ""                
+SW39       Q                       TopLayer    SWITCH_U1_W_LED                1535.000      2802.551      0        ""                
+SW38       TAB                     TopLayer    SWITCH_U1.50_W_LED             597.500       2802.551      0        ""                
+SW37       -NUM                    TopLayer    SWITCH_U1_W_LED                15410.000     3552.551      0        ""                
+SW36       *NUM                    TopLayer    SWITCH_U1_W_LED                14660.000     3552.551      0        ""                
+SW35       /NUM                    TopLayer    SWITCH_U1_W_LED                13910.000     3552.551      0        ""                
+SW34       NUMLOCK                 TopLayer    SWITCH_U1_W_LED                13160.000     3552.551      0        ""                
+SW33       HOME                    TopLayer    SWITCH_U1_W_LED                12410.000     3552.551      0        ""                
+SW32       DELETE                  TopLayer    SWITCH_U1_W_LED                11660.000     3552.551      0        ""                
+SW31       BACKSPACE               TopLayer    SWITCH_U2_W_LED                10560.000     3537.000      0        ""                
+SW30       +-                      TopLayer    SWITCH_U1_W_LED                9410.000      3552.551      0        ""                
+SW29       _-                      TopLayer    SWITCH_U1_W_LED                8660.000      3552.551      0        ""                
+SW28       0                       TopLayer    SWITCH_U1_W_LED                7910.000      3552.551      0        ""                
+SW27       9                       TopLayer    SWITCH_U1_W_LED                7160.000      3552.551      0        ""                
+SW26       8                       TopLayer    SWITCH_U1_W_LED                6410.000      3552.551      0        ""                
+SW25       7                       TopLayer    SWITCH_U1_W_LED                5660.000      3552.551      0        ""                
+SW24       6                       TopLayer    SWITCH_U1_W_LED                4910.000      3552.551      0        ""                
+SW23       5                       TopLayer    SWITCH_U1_W_LED                4160.000      3552.551      0        ""                
+SW22       4                       TopLayer    SWITCH_U1_W_LED                3410.000      3552.551      0        ""                
+SW21       3                       TopLayer    SWITCH_U1_W_LED                2660.000      3552.551      0        ""                
+SW20       2                       TopLayer    SWITCH_U1_W_LED                1910.000      3552.551      0        ""                
+SW19       1                       TopLayer    SWITCH_U1_W_LED                1160.000      3552.551      0        ""                
+SW18       ~                       TopLayer    SWITCH_U1_W_LED                410.000       3552.551      0        ""                
+SW17       Boot                    TopLayer    SWITCH_U1_W_LED                12410.000     4302.551      0        ""                
+SW16       PAUSE                   TopLayer    SWITCH_U1_W_LED                11660.000     4302.551      0        ""                
+SW15       SCROLL                  TopLayer    SWITCH_U1_W_LED                10910.000     4302.551      0        ""                
+SW14       PRINT                   TopLayer    SWITCH_U1_W_LED                10160.000     4302.551      0        ""                
+SW13       F12                     TopLayer    SWITCH_U1_W_LED                9410.000      4302.551      0        ""                
+SW12       F11                     TopLayer    SWITCH_U1_W_LED                8660.000      4302.551      0        ""                
+SW11       F10                     TopLayer    SWITCH_U1_W_LED                7910.000      4302.551      0        ""                
+SW10       F9                      TopLayer    SWITCH_U1_W_LED                7160.000      4302.551      0        ""                
+SW9        F8                      TopLayer    SWITCH_U1_W_LED                6410.000      4302.551      0        ""                
+SW8        F7                      TopLayer    SWITCH_U1_W_LED                5660.000      4302.551      0        ""                
+SW7        F6                      TopLayer    SWITCH_U1_W_LED                4910.000      4302.551      0        ""                
+SW6        F5                      TopLayer    SWITCH_U1_W_LED                4160.000      4302.551      0        ""                
+SW5        F4                      TopLayer    SWITCH_U1_W_LED                3410.000      4302.551      0        ""                
+SW4        F3                      TopLayer    SWITCH_U1_W_LED                2660.000      4302.551      0        ""                
+SW3        F2                      TopLayer    SWITCH_U1_W_LED                1910.000      4302.551      0        ""                
+SW2        F1                      TopLayer    SWITCH_U1_W_LED                1160.000      4302.551      0        ""                
+SW1        ESC                     TopLayer    SWITCH_U1_W_LED                410.000       4302.551      0        ""                
+D106       1N4148WTR               BottomLayer SOD-123                        14945.287     319.858       90       ""                
+D105       1N4148WTR               BottomLayer SOD-123                        13813.000     323.000       90       ""                
+D104       1N4148WTR               BottomLayer SOD-123                        12696.000     320.000       90       ""                
+D103       1N4148WTR               BottomLayer SOD-123                        11946.000     320.000       90       ""                
+D102       1N4148WTR               BottomLayer SOD-123                        11189.000     320.000       90       ""                
+D101       1N4148WTR               BottomLayer SOD-123                        10445.287     319.858       90       ""                
+D100       1N4148WTR               BottomLayer SOD-123                        9698.000      322.000       90       ""                
+D99        1N4148WTR               BottomLayer SOD-123                        8945.287      319.858       90       ""                
+D98        1N4148WTR               BottomLayer SOD-123                        8195.287      319.858       90       ""                
+D97        1N4148WTR               BottomLayer SOD-123                        5476.537      319.858       90       ""                
+D96        1N4148WTR               BottomLayer SOD-123                        2664.415      319.858       90       ""                
+D95        1N4148WTR               BottomLayer SOD-123                        1727.000      321.000       90       ""                
+D94        1N4148WTR               BottomLayer SOD-123                        789.415       319.858       90       ""                
+D93        1N4148WTR               BottomLayer SOD-123                        15420.000     1573.000      180      ""                
+D92        1N4148WTR               BottomLayer SOD-123                        14945.287     1069.859      90       ""                
+D91        1N4148WTR               BottomLayer SOD-123                        14195.287     1069.859      90       ""                
+D90        1N4148WTR               BottomLayer SOD-123                        13445.287     1069.859      90       ""                
+D89        1N4148WTR               BottomLayer SOD-123                        12695.287     1069.859      90       ""                
+D88        1N4148WTR               BottomLayer SOD-123                        11945.000     1071.000      90       ""                
+D87        1N4148WTR               BottomLayer SOD-123                        10541.787     1069.859      90       ""                
+D86        1N4148WTR               BottomLayer SOD-123                        9133.287      1069.859      90       ""                
+D85        1N4148WTR               BottomLayer SOD-123                        8383.000      1071.000      90       ""                
+D84        1N4148WTR               BottomLayer SOD-123                        7633.287      1069.859      90       ""                
+D83        1N4148WTR               BottomLayer SOD-123                        6882.000      1069.000      90       ""                
+D82        1N4148WTR               BottomLayer SOD-123                        6135.000      1069.000      90       ""                
+D81        1N4148WTR               BottomLayer SOD-123                        5384.000      1071.000      90       ""                
+D80        1N4148WTR               BottomLayer SOD-123                        4633.287      1069.859      90       ""                
+D79        1N4148WTR               BottomLayer SOD-123                        3883.287      1069.859      90       ""                
+D78        1N4148WTR               BottomLayer SOD-123                        3133.287      1069.859      90       ""                
+D77        1N4148WTR               BottomLayer SOD-123                        2383.287      1069.859      90       ""                
+D76        1N4148WTR               BottomLayer SOD-123                        1164.425      1069.859      90       ""                
+D75        1N4148WTR               BottomLayer SOD-123                        14945.287     1819.859      90       ""                
+D74        1N4148WTR               BottomLayer SOD-123                        14195.287     1819.859      90       ""                
+D73        1N4148WTR               BottomLayer SOD-123                        13445.287     1819.859      90       ""                
+D72        1N4148WTR               BottomLayer SOD-123                        12695.287     1819.859      90       ""                
+D71        1N4148WTR               BottomLayer SOD-123                        11945.287     1819.859      90       ""                
+D70        1N4148WTR               BottomLayer SOD-123                        10985.000     1973.000      180      ""                
+D69        1N4148WTR               BottomLayer SOD-123                        9507.787      1819.859      90       ""                
+D68        1N4148WTR               BottomLayer SOD-123                        8757.787      1819.859      90       ""                
+D67        1N4148WTR               BottomLayer SOD-123                        8007.787      1819.859      90       ""                
+D66        1N4148WTR               BottomLayer SOD-123                        7257.787      1819.859      90       ""                
+D65        1N4148WTR               BottomLayer SOD-123                        6507.787      1819.859      90       ""                
+D64        1N4148WTR               BottomLayer SOD-123                        5757.787      1819.859      90       ""                
+D63        1N4148WTR               BottomLayer SOD-123                        5007.787      1819.859      90       ""                
+D62        1N4148WTR               BottomLayer SOD-123                        4257.787      1819.859      90       ""                
+D61        1N4148WTR               BottomLayer SOD-123                        3507.787      1819.859      90       ""                
+D60        1N4148WTR               BottomLayer SOD-123                        2757.787      1819.859      90       ""                
+D59        1N4148WTR               BottomLayer SOD-123                        2007.787      1819.859      90       ""                
+D58        1N4148WTR               BottomLayer SOD-123                        976.537       1819.859      90       ""                
+D57        1N4148WTR               BottomLayer SOD-123                        15411.000     3034.000      180      ""                
+D56        1N4148WTR               BottomLayer SOD-123                        14945.287     2569.858      90       ""                
+D55        1N4148WTR               BottomLayer SOD-123                        14196.000     2571.000      90       ""                
+D54        1N4148WTR               BottomLayer SOD-123                        13445.287     2569.858      90       ""                
+D53        1N4148WTR               BottomLayer SOD-123                        12700.787     2569.858      90       ""                
+D52        1N4148WTR               BottomLayer SOD-123                        11950.787     2569.858      90       ""                
+D51        1N4148WTR               BottomLayer SOD-123                        11029.000     2610.000      90       ""                
+D50        1N4148WTR               BottomLayer SOD-123                        10064.000     2630.000      90       ""                
+D49        1N4148WTR               BottomLayer SOD-123                        9320.287      2569.858      90       ""                
+D48        1N4148WTR               BottomLayer SOD-123                        8570.000      2570.000      90       ""                
+D47        1N4148WTR               BottomLayer SOD-123                        7818.000      2571.000      90       ""                
+D46        1N4148WTR               BottomLayer SOD-123                        7071.000      2571.000      90       ""                
+D45        1N4148WTR               BottomLayer SOD-123                        6318.000      2570.000      90       ""                
+D44        1N4148WTR               BottomLayer SOD-123                        5570.287      2569.858      90       ""                
+D43        1N4148WTR               BottomLayer SOD-123                        4820.287      2569.858      90       ""                
+D42        1N4148WTR               BottomLayer SOD-123                        4069.000      2576.000      90       ""                
+D41        1N4148WTR               BottomLayer SOD-123                        3321.000      2571.000      90       ""                
+D40        1N4148WTR               BottomLayer SOD-123                        2570.287      2569.858      90       ""                
+D39        1N4148WTR               BottomLayer SOD-123                        1820.287      2569.858      90       ""                
+D38        1N4148WTR               BottomLayer SOD-123                        882.787       2569.858      90       ""                
+D37        1N4148WTR               BottomLayer SOD-123                        15695.287     3319.858      90       ""                
+D36        1N4148WTR               BottomLayer SOD-123                        14945.287     3319.858      90       ""                
+D35        1N4148WTR               BottomLayer SOD-123                        14195.287     3319.858      90       ""                
+D34        1N4148WTR               BottomLayer SOD-123                        13445.287     3319.858      90       ""                
+D33        1N4148WTR               BottomLayer SOD-123                        12700.787     3319.858      90       ""                
+D32        1N4148WTR               BottomLayer SOD-123                        11950.787     3319.858      90       ""                
+D31        1N4148WTR               BottomLayer SOD-123                        10820.287     3319.858      90       ""                
+D30        1N4148WTR               BottomLayer SOD-123                        9695.287      3319.858      90       ""                
+D29        1N4148WTR               BottomLayer SOD-123                        8948.000      3323.000      90       ""                
+D28        1N4148WTR               BottomLayer SOD-123                        8195.287      3319.858      90       ""                
+D27        1N4148WTR               BottomLayer SOD-123                        7445.287      3319.858      90       ""                
+D26        1N4148WTR               BottomLayer SOD-123                        6695.287      3319.858      90       ""                
+D25        1N4148WTR               BottomLayer SOD-123                        5945.287      3319.858      90       ""                
+D24        1N4148WTR               BottomLayer SOD-123                        5195.287      3319.858      90       ""                
+D23        1N4148WTR               BottomLayer SOD-123                        4445.287      3319.858      90       ""                
+D22        1N4148WTR               BottomLayer SOD-123                        3695.287      3319.858      90       ""                
+D21        1N4148WTR               BottomLayer SOD-123                        2945.287      3319.858      90       ""                
+D20        1N4148WTR               BottomLayer SOD-123                        2192.000      3321.000      90       ""                
+D19        1N4148WTR               BottomLayer SOD-123                        1445.287      3319.858      90       ""                
+D18        1N4148WTR               BottomLayer SOD-123                        695.287       3319.858      90       ""                
+D17        1N4148WTR               BottomLayer SOD-123                        12700.787     4069.858      90       ""                
+D16        1N4148WTR               BottomLayer SOD-123                        11950.787     4069.858      90       ""                
+D15        1N4148WTR               BottomLayer SOD-123                        11200.787     4069.858      90       ""                
+D14        1N4148WTR               BottomLayer SOD-123                        10450.787     4069.858      90       ""                
+D13        1N4148WTR               BottomLayer SOD-123                        9706.000      4069.000      90       ""                
+D12        1N4148WTR               BottomLayer SOD-123                        8948.000      4069.000      90       ""                
+D11        1N4148WTR               BottomLayer SOD-123                        8195.287      4069.858      90       ""                
+D10        1N4148WTR               BottomLayer SOD-123                        7442.000      4069.000      90       ""                
+D9         1N4148WTR               BottomLayer SOD-123                        6698.000      4071.000      90       ""                
+D8         1N4148WTR               BottomLayer SOD-123                        5945.287      4069.858      90       ""                
+D7         1N4148WTR               BottomLayer SOD-123                        5195.287      4069.858      90       ""                
+D6         1N4148WTR               BottomLayer SOD-123                        4445.287      4069.858      90       ""                
+D5         1N4148WTR               BottomLayer SOD-123                        3695.287      4069.858      90       ""                
+D4         1N4148WTR               BottomLayer SOD-123                        2945.287      4069.858      90       ""                
+D3         1N4148WTR               BottomLayer SOD-123                        2194.000      4069.000      90       ""                
+D2         1N4148WTR               BottomLayer SOD-123                        1445.287      4069.858      90       ""                
+D1         1N4148WTR               BottomLayer SOD-123                        695.287       4069.858      90       ""                
