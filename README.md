@@ -7,6 +7,7 @@ Alot of this project is predicated on me wanting to learn a bunch of stuff. Will
 - CMake
 - unit test suites (maybe throwtheswitch) + jenkins/travis
 - some tools from the llvm suite - clang, static analyzers, etc.
+
 Will also be using a few peripherals for the first time - haven't really messed with SPI before, nor DMA, nor have I really ever understood USB protocols. 
 In addition, wanted to make a layout that suites me the best, and kinda started making a list of things i wanted - encoder control, maybe integration with that aurora rgb project if I can figure out 
  
